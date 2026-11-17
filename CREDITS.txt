@@ -3,20 +3,14 @@ PENNANT PLANET — SOURCES AND ATTRIBUTION
 ART AND INTERFACE
 The packaged player portraits, club crests, character animations, stadium
 drawings, and menu artwork were made for Pennant Planet. The night backdrop
-is a render of Marcelo Stadium. Frog Frogs is the hidden club, nicknamed
-Pond Nine. Earlier character and team art was retired.
+is a render of Marcelo Stadium. Earlier character and team art was retired.
 
 Season and Pennant Cup use the current roster art. Captains have signature special swing and pitch visuals.
 Standard specials use a teal glow. Outfield chemistry uses a checkmark for good
 chemistry, a cross for bad chemistry, and a dash for neutral. Three good
 outfield pairs grant each outfielder +1 fielding.
 
-BASEBALL DATA AND VENUE REFERENCES
-Historical rating and handedness data was adapted from the player tables at
-https://www.mariowiki.com/Mario_Super_Sluggers#Playable_characters.
-Some chemistry pairings were informed by the table at
-https://www.mariowiki.com/Chemistry#Mario_Super_Sluggers.
-
+VENUE REFERENCES
 Real-world ballpark dimensions and visual references inform some venues.
 The game draws the fields itself. Approximate layouts and fence heights may
 differ from the real venues.
