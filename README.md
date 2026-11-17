@@ -4,7 +4,7 @@ A nostalgic arcade baseball game from JDF Productions. Play an Exhibition game, 
 
 ## Play in your browser
 
-Once the site is live, [play Pennant Planet](https://jakefed1.github.io/Pennant-Planet/) in your browser. No download or installation is needed.
+[Play Pennant Planet](https://jakefed1.github.io/Pennant-Planet/) in your browser. No download or installation is needed.
 
 ## Download and play offline
 
