@@ -1,0 +1,49 @@
+PENNANT PLANET — SOURCES AND ATTRIBUTION
+
+ART AND INTERFACE
+The packaged player portraits, club crests, character animations, stadium
+drawings, and menu artwork were made for Pennant Planet. The night backdrop
+is a render of Marcelo Stadium. Frog Frogs is the hidden club, nicknamed
+Pond Nine. Earlier character and team art was retired.
+
+Season and Pennant Cup use the current roster art. Captains have signature special swing and pitch visuals.
+Standard specials use a teal glow. Outfield chemistry uses a checkmark for good
+chemistry, a cross for bad chemistry, and a dash for neutral. Three good
+outfield pairs grant each outfielder +1 fielding.
+
+BASEBALL DATA AND VENUE REFERENCES
+Historical rating and handedness data was adapted from the player tables at
+https://www.mariowiki.com/Mario_Super_Sluggers#Playable_characters.
+Some chemistry pairings were informed by the table at
+https://www.mariowiki.com/Chemistry#Mario_Super_Sluggers.
+
+Real-world ballpark dimensions and visual references inform some venues.
+The game draws the fields itself. Approximate layouts and fence heights may
+differ from the real venues.
+
+AUDIO
+Gameplay effects and short cues are synthesized locally. The packaged crowd
+sounds are edited, layered mixes of the recordings credited below.
+
+All three sources below are dedicated to CC0 1.0:
+https://creativecommons.org/publicdomain/zero/1.0/
+
+BACKGROUND: bmadore / Barry Madore — Crowd and field noise before and during
+homerun hit at MLB baseball stadium. Target Field, Twins vs Red Sox, June 20,
+2023. Only the pre-hit 0.4–11.6-second section is used; the subsequent bat,
+home-run celebration and stadium music are excluded. Offset layers and light
+filtering create a distant, denser crowd bed rather than a close conversation.
+https://freesound.org/people/bmadore/sounds/691975/
+Preview source: https://cdn.freesound.org/previews/691/691975_5111753-hq.mp3
+
+SCORING / HOME-RUN ROAR: jasinski — yells.mp3, baseball game crowd cheering.
+The 8.7–21.7-second section is blended with an offset section from 10.2–19.8
+and a quiet layer of the stadium applause below.
+https://freesound.org/people/jasinski/sounds/18365/
+Preview source: https://cdn.freesound.org/previews/18/18365_71309-hq.mp3
+
+ROUTINE APPLAUSE: cognito perceptu — applause.wav, applauding crowd in an
+outdoor football stadium. The 0.15–5.65-second section supplies routine play
+reactions and a little texture underneath big cheers.
+https://freesound.org/people/cognito%20perceptu/sounds/57587/
+Preview source: https://cdn.freesound.org/previews/57/57587_57789-hq.mp3
