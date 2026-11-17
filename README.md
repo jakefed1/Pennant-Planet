@@ -23,8 +23,8 @@ If you downloaded the game ZIP, extract it first and open the `index.html` insid
 
 [Open a bug report on GitHub](https://github.com/jakefed1/Pennant-Planet/issues/new?template=bug-report.md). Include your browser, game mode, what happened, and the steps to reproduce it. If the bug happened during a game, include the ballpark and game situation. A screenshot or short clip helps.
 
-## Rights
+## Sharing and reuse
 
-© 2026 JDF Productions. All rights reserved. You may play Pennant Planet for personal use and share the official game link. Reproduction, redistribution, and adaptation of the game require prior written permission. Third-party material is credited separately.
+I made Pennant Planet for people to play and enjoy. Feel free to share the official game link. Please get my permission before reproducing, redistributing, or adapting the game.
 
 [Credits and attribution](CREDITS.txt)
