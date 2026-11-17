@@ -15,6 +15,8 @@ If you downloaded the game ZIP, extract it first and open the `index.html` insid
 
 ## Getting started
 
+For the best gameplay experience, start with the four **Featured Parks** in the stadium picker. I spent the most time refining Hilly Heaven, Marcelo Stadium, Rocky Mountain Field, and Appalachian Park.
+
 - Press **Space** to swing, or hold and release it to pitch. Use the **arrow keys** to aim and **P** or **Esc** to pause.
 - Open **How to play** for the full control list, **Controls** to change your keys, or **Rules** in the Derby setup.
 - Season, Pennant Cup, and Derby progress saves in your browser. Online and offline saves are separate.
