@@ -25,6 +25,6 @@ If you downloaded the game ZIP, extract it first and open the `index.html` insid
 
 ## Sharing and reuse
 
-I made Pennant Planet for people to play and enjoy. Feel free to share the official game link. Please get my permission before reproducing, redistributing, or adapting the game.
+I made Pennant Planet for people to play and enjoy. Feel free to share the official game link. You may not, however, reproduce, redistribute, or adapt the game for commercial or non-commercial purposes without my express written consent.
 
 [Credits and attribution](CREDITS.txt)
